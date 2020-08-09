@@ -24,7 +24,7 @@ switch(comando){
 //git init
 //git status
 //git add . el punto es para especificar todos los archivos
-
+//git commit -m "Commit inicial"
 
 
 
